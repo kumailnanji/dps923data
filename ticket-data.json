@@ -6,18 +6,18 @@
 "data": [
 {
 "type": "Balcony Level",
-"price": "2000",
-"inventory": "12"
+"price": 2000,
+"inventory": 12
 },
 {
 "type": "Lower Level",
-"price": "10000",
-"inventory": "20"
+"price": 10000,
+"inventory": 20
 },
 {
 "type": "Courtside",
-"price": "30000",
-"inventory": "15"
+"price": 30000,
+"inventory": 15
 }
 ]
 }

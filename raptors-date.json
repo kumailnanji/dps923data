@@ -1,0 +1,23 @@
+{
+"student": "Kumail Nanji",
+"version": "1",
+"timestamp": "2021-01-07T18:25:43+0000",
+"count": 5,
+"data": [
+{
+"type": "Balcony Level",
+"price": 2000,
+"inventory": 12
+},
+{
+"type": "Lower Level",
+"price": 10000,
+"inventory": 20
+},
+{
+"type": "Courtside",
+"price": 30000,
+"inventory": 15
+}
+]
+}
